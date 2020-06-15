@@ -12,7 +12,9 @@ FUNCIONES:
     Las funciones pueden, o no, retornar o devolver un resultado de acuerdo a la operación que la funcion esté haciendo. A este resultado que devuelve se le llama el return.
 
 DECLARACIONES:
-    Declarar se podría decir que es nombrar una variable y otorgarle un tipo de dato. También es nombrar una función.
+    Una declaración if es algo que nos sirve para validar si una información es cierta o falsa, y según ese resultado, poder hacer una operación deseada. Por ejemplo, yo se que 18 años de edad es cuando uno se vuelve mayor de edad, entonces yo pregunto, Juan tiene 18 años??
+    Si la respuesta es Si, entonces yo puedo decir; Juan es Mayor de edad.
+    Si la respuesta es No, entonces yo puedo decir; Juan no es mayor de edad.
 
 VALORES BOOLEANOS:
     Los valores Booleanos son dos: True o false, es decir, verdadero o falso. Un valor booleano es algo que nos indica si alguna sentencia es verdadera o falsa.
