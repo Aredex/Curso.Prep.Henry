@@ -1,0 +1,18 @@
+SOLUCION A LA ACTIVIDAD DEL ARCHIVO README.
+
+VARIABLES:
+    Una variable es SEPARAR un espacio dentro del computador para guardar un dato cualquiera, guardar una información, y ya luego poder usar ese dato cuando uno quiera.
+
+STRINGS:
+    Los Strings son un tipo de dato que se guarda en las variables, los strings son texto, palabras, letras. Para indicarle a la variable que se está guardando un dato de tipo String, se necesita poner estas palabras dentro de comillas.
+
+FUNCIONES:
+    Una función es algo que nos permite agrupar código que se va a utilizar de forma constante en todo el programa que estamos creando, de esta manera evitamos escribir lo mismo una y otra vez.
+    Las funciones pueden, o no, recibir argumenos, los cuales son los datos que la funcion va a usar para poder realizar la tarea que le asignemos.
+    Las funciones pueden, o no, retornar o devolver un resultado de acuerdo a la operación que la funcion esté haciendo. A este resultado que devuelve se le llama el return.
+
+DECLARACIONES:
+    Declarar se podría decir que es nombrar una variable y otorgarle un tipo de dato. También es nombrar una función.
+
+VALORES BOOLEANOS:
+    Los valores Booleanos son dos: True o false, es decir, verdadero o falso. Un valor booleano es algo que nos indica si alguna sentencia es verdadera o falsa.
